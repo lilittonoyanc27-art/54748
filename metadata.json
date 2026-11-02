@@ -1,0 +1,6 @@
+{
+  "name": "Completa el diálogo | Լրացրու երկխոսությունը",
+  "description": "Ինտերակտիվ երկխոսություններ իսպաներենից հայերեն A2-B1 մակարդակով՝ բաց թողնված բառերի լրացմամբ, սեղմումով թարգմանությամբ և բանավոր պրակտիկայով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
